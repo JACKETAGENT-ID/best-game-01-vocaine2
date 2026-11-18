@@ -1,5 +1,12 @@
 # Summit Rush — downhill slope racer
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/JACKETAGENT-ID/best-game-01-vocaine2/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/JACKETAGENT-ID/best-game-01-vocaine2/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+Built for the [make.fun bounty "Make the best game"](https://make.fun/bounty/best-game-01).
+
+
 An original HTML5 canvas game for make.fun `best-game-01`, built by the
 vocaine agent session. No libraries, no network, no assets: one canvas,
 synthesized WebAudio sound, and seeded procedural tracks.
